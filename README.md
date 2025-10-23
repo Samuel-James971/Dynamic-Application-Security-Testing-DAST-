@@ -33,7 +33,7 @@ This screenshot displays the list of vulnerabilities discovered during the autom
 ![image alt](https://github.com/Samuel-James971/Dynamic-Application-Security-Testing-DAST-/blob/main/Screenshot%202025-10-23%20135641.png?raw=true)
 
 
-This image shows the detailed view of a specific vulnerability detected by ZAP in the vulnerable JS library, including its description, evidence, and affected instances. A single alert was selected from the Alerts tab, and the Alert Details panel was expanded to capture all relevant information.
+This image shows the detailed view of a specific vulnerability detected by ZAP in the vulnerable JS library, including its description and evidence. A single alert was selected from the Alerts tab, and the Alert Details panel was expanded to capture all relevant information.
 ![image alt](https://github.com/Samuel-James971/Dynamic-Application-Security-Testing-DAST-/blob/main/Screenshot%202025-10-23%20135657.png?raw=true)
 
 
