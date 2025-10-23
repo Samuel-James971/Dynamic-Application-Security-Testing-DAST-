@@ -16,3 +16,5 @@ Generating detailed HTML reports of findings
 Organizing evidence and screenshots to communicate security risks effectively
 
 All testing was performed in a safe, controlled environment using a local Docker container. This project is ideal for anyone looking to understand DAST workflows, OWASP ZAP usage, and basic web application security assessment.
+
+![image alt](https://github.com/Samuel-James971/Cloud-Home-Lab/blob/main/3.png?raw=true)
