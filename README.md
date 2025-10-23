@@ -9,11 +9,11 @@ The project is designed for educational purposes and showcases the practical app
 
 Scanning a live application (black-box testing)
 
-Analyzing and interpreting vulnerability alerts
+Analysing and interpreting vulnerability alerts
 
 Generating detailed HTML reports of findings
 
-Organizing evidence and screenshots to communicate security risks effectively
+Organising evidence and screenshots to communicate security risks effectively
 
 All testing was performed in a safe, controlled environment using a local Docker container. This project is ideal for anyone looking to understand DAST workflows, OWASP ZAP usage, and basic web application security assessment.
 
